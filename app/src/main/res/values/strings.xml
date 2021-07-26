@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AndroidWork3-4.2</string>
+    <string-array name="local">
+        <item>Русский</item>
+        <item>Английский</item>
+    </string-array>
+    <string name="main_text">Привет МИР!!! </string>
+    <string name="button_ok">Ок</string>
+    <string-array name="Size">
+        <item>Крупная</item>
+        <item>Средняя</item>
+        <item>Мелкая</item>
+    </string-array>
+</resources>

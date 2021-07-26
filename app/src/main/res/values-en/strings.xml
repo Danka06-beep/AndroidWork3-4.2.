@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AndroidWork3-4.2</string>
+    <string-array name="local">
+        <item>Russian</item>
+        <item>English</item>
+    </string-array>
+    <string name="main_text">Hello WORLD!!!!</string>
+    <string name="button_ok">Ok</string>
+    <string-array name="Size">
+        <item>Large</item>
+        <item>Average</item>
+        <item>Small</item>
+    </string-array>
+</resources>
