@@ -14,13 +14,13 @@
         <!-- Customize your theme here. -->
     </style>
     <style name="ThemeLarge" parent="Theme.AndroidWork342">
-    <item name="android:layout_margin">1dp</item>
+    <item name="android:layout_margin">10dp</item>
     </style>
     <style name="ThemeAverage" parent="Theme.AndroidWork342">
         <item name="android:layout_margin">3dp</item>
     </style>
     <style name="ThemeSmall" parent="Theme.AndroidWork342">
-        <item name="android:layout_margin">10dp</item>
+        <item name="android:layout_margin">1dp</item>
     </style>
 
    
