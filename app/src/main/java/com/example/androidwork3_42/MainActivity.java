@@ -25,15 +25,12 @@ public class MainActivity extends AppCompatActivity {
         Utils.onActivityCreateSetTheme(this);
         setContentView(R.layout.activity_main);
 
-
-
         Button buttonOk = findViewById(R.id.ok);
         final Spinner spinner = findViewById(R.id.spinner);
         final Spinner spinnerSize = findViewById(R.id.spinnerSize);
 
         ArrayAdapter<?> adapter = ArrayAdapter.createFromResource(this, R.array.local, android.R.layout.simple_spinner_item);
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-
 
         ArrayAdapter<?> adapterSize = ArrayAdapter.createFromResource(this, R.array.Size, android.R.layout.simple_spinner_item);
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
